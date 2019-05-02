@@ -93,8 +93,8 @@
 		3FF88E46226827B30047CF99 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				3FF88E3722604EC10047CF99 /* Assets.xcassets */,
 				3FF88E3922604EC10047CF99 /* LaunchScreen.storyboard */,
+				3FF88E3722604EC10047CF99 /* Assets.xcassets */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
